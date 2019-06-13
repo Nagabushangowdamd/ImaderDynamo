@@ -1,0 +1,5 @@
+com\iamder\config\DynamoDbConfig.class
+com\iamder\repository\UserRepository.class
+com\iamder\IamderMvpApplication.class
+com\iamder\controller\UserController.class
+com\iamder\model\User.class
